@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConexionBD", "ConexionBD\Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoFinal", "ProyectoFinal\ProyectoFinal.csproj", "{8CBD4D1A-C10A-4FED-AFA8-63C616EE02B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{A57262F5-F1F3-49AF-928B-C47E6027E8D9}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{8CBD4D1A-C10A-4FED-AFA8-63C616EE02B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CBD4D1A-C10A-4FED-AFA8-63C616EE02B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CBD4D1A-C10A-4FED-AFA8-63C616EE02B1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A57262F5-F1F3-49AF-928B-C47E6027E8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A57262F5-F1F3-49AF-928B-C47E6027E8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A57262F5-F1F3-49AF-928B-C47E6027E8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A57262F5-F1F3-49AF-928B-C47E6027E8D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
